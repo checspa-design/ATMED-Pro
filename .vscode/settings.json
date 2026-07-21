@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.renderWhitespace": "selection",
+    "php.validate.enable": true,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "files.eol": "\n",
+    "git.autofetch": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    }
+}
